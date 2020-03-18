@@ -1,6 +1,3 @@
-// Write your solution here!
 
-
-append = [];
-
-append.unshift("Odie");
+const append = ["Milo", "Otis", "Garfield"];
+const prepend = ["Milo", "Otis", "Garfield"];
